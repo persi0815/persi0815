@@ -1,6 +1,6 @@
-### 양지원 (Persi)
+## 양지원 (Persi)
 - Korea Aerospace Univ.✈️ SOFTWARE
-- TECH Blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://persi0815.tistory.com/)][(https://persi0815.tistory.com/)]
+- TECH Blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://persi0815.tistory.com)](https://persi0815.tistory.com)
 - Email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jina8151010@gmail.com)](mailto:jina8151010@gmail.com)
 
 ### Experiences
