@@ -13,7 +13,7 @@
 - Spring Backend Developer
 - DevOps
 
-[![Persi's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/persi0815/github-readme-stats)
+[![Persi's github stats](https://github-readme-stats.vercel.app/api?username=persi0815)](https://github.com/persi0815/github-readme-stats)
 
 <!--
 **persi0815/persi0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
