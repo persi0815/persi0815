@@ -1,5 +1,5 @@
-## 양지원 (Persi)
-- Korea Aerospace Univ.✈️ SOFTWARE
+## 양지원 (Persi) 🌱
+- Korea Aerospace Univ.✈️ SOFTWARE 22
 - TECH Blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://persi0815.tistory.com)](https://persi0815.tistory.com)
 - Email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jina8151010@gmail.com)](mailto:jina8151010@gmail.com)
 
@@ -13,8 +13,9 @@
 - Spring Backend Developer
 - DevOps
 
-
+## Status
 [![Persi's github stats](https://github-readme-stats.vercel.app/api?username=persi0815)](https://github.com/persi0815/github-readme-stats)
+
 
 <!--
 **persi0815/persi0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
