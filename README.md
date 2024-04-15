@@ -6,7 +6,7 @@
 ## Experiences
 - KAU Koala Algorithm Club🐨 2022.12 ~
 - UMC 5th Server Part 2023.09 ~ 2024.02
-- OSSCA Redis Camp 2024.04 ~ 2024.6
+- OSSCA Redis Camp 2024.04 ~ 2024.06
 - KAU Koala Algorithm Club (manager) 2024.03 ~ 2024.12
 - LikeLion 12th Server Part (manager) 2024.01 ~ 2024.12
 
