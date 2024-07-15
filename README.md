@@ -6,8 +6,9 @@
 ## Experiences
 - KAU Koala Algorithm Club🐨 2022.12 ~
 - UMC 5th Server Part 2023.09 ~ 2024.02
-- OSSCA Redis Camp 2024.04 ~ 2024.06
+- OSSCA Redis 2024.04 ~ 2024.06
 - KAU Koala Algorithm Club (manager) 2024.03 ~ 2024.12
+- OSSCA FOSSLight 2024.07 ~ 2024.11
 
 ## Interest
 - Spring Backend Developer
