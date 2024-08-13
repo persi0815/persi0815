@@ -18,7 +18,6 @@
 
 ## Status
 [![Persi's github stats](https://github-readme-stats.vercel.app/api?username=persi0815)](https://github.com/persi0815/github-readme-stats)
-[![Persi's github stats]([https://github-readme-stats.vercel.app/api?username=persi0815](https://github-readme-stats.vercel.app/api/top-langs/?username=persi0815))
 
 ## Solved ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight0815)](https://solved.ac/moonlight0815/)
