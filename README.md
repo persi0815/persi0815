@@ -13,7 +13,8 @@
 - OSSCA FOSSLight 2024.07 ~ 2024.11
 
 ## Interest
-- Spring Backend Developer
+- Backend Developer
+- Data Engineer
 - DevOps
 
 ## Status
