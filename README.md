@@ -11,10 +11,10 @@
 - OSSCA Redis 2024.04 ~ 2024.06
 - KAU Koala Algorithm Club (manager) 2024.03 ~ 2024.12
 - OSSCA FOSSLight 2024.07 ~ 2024.11
+- AIT Story FullStack(Spring, Vue) 2025.09 ~ 2025.12
 
 ## Interest
 - Backend Developer
-- Data Engineer
 - DevOps
 
 ## Status
