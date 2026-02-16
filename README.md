@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Persi&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 ## 양지원 (Persi) 🌱
+- HAFS HighSchool. Deutsch 15
 - Korea Aerospace Univ.✈️ SOFTWARE 22
 - TECH Blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://persi0815.tistory.com)](https://persi0815.tistory.com)
 - Email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jina8151010@gmail.com)](mailto:jina8151010@gmail.com)
